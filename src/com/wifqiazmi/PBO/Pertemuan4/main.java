@@ -4,7 +4,7 @@ public class main {
     public static void main(String[] args) {
         Manager managerkami = new Manager();
         pegawai pegawaikami = new pegawai();
-
+ 
         managerkami.nip = 21102277;
         managerkami.nama = "wifqiazmi";
 
