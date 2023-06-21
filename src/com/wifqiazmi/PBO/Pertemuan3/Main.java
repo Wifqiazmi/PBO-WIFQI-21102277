@@ -5,7 +5,7 @@ public class Main {
         //pembuatan class Non-Constructor
         SepedaMotor honda = new SepedaMotor();
         SepedaMotor yamaha = new SepedaMotor();
-        SepedaMotor vespa = new SepedaMotor();
+        SepedaMotor vespa = new SepedaMotor(); 
 */
         //pembuatan class Constructor Ber-Parameter
         SepedaMotor honda = new SepedaMotor("Honda", " Vario 160", 35000000);
