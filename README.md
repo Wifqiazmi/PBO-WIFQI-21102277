@@ -11,7 +11,7 @@ Praktikum Pemrograman Berorientasi Objek dirancang untuk memberikan pemahaman ya
 - Konsep dasar OOP, termasuk kelas, objek, pewarisan, dan polimorfisme.
 - Penggunaan prinsip-prinsip desain OOP, seperti SOLID dan DRY.
 - Implementasi OOP dalam bahasa pemrograman yang digunakan.
-- Implementasi Database dan GUI 'pertemuan9'
+- Implementasi Database dan GUI `pertemuan9`
 
 ## Persiapan 
 pastikan Anda telah mempersiapkan lingkungan pengembangan yang sesuai, termasuk:
